@@ -5,7 +5,7 @@
 
 🍄 Ongoing Projects: [Vulkan2D](http://www.github.com/PaoloMazzon/Vulkan2D), [Astro](https://github.com/PaoloMazzon/astro-engine)
 
-🤨 Completed Projects: [Bedlam](https://github.com/PaoloMazzon/Bedlam), [Spacelink](https://github.com/PaoloMazzon/Spacelink), [Peace & Liberty](https://github.com/PaoloMazzon/PeacenLiberty)
+🤨 Completed Projects: [Bedlam](https://github.com/PaoloMazzon/Bedlam), [Spacelink](https://github.com/PaoloMazzon/Spacelink), [Peace & Liberty](https://github.com/PaoloMazzon/PeacenLiberty), [LECD](https://github.com/PaoloMazzon/Low-Earth-Cleanup-Detail)
 
 🗿 Open to collaboration, reach me at [pdmazzon@gmail.com](mailto:pdmazzon@gmail.com)
 
