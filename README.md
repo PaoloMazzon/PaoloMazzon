@@ -14,4 +14,4 @@
 Check out my [2D renderer](http://www.github.com/PaoloMazzon/Vulkan2D) and [game engine](https://github.com/PaoloMazzon/astro-engine),
 I'm very proud of both of them.
 
-![Vulkan2D](https://github.com/PaoloMazzon/Vulkan2D/raw/master/examples/retrolook/example.gif)
+![Vulkan2D](https://user-images.githubusercontent.com/17896827/237554076-686ab0a6-b37d-4407-8e26-1b98d0bd00ab.gif)
