@@ -1,9 +1,9 @@
 # Paolo Mazzon
 (libertea/caveguy/splunk/plo)
 
-👺 Primary interests: Vulkan, C, gamedev, Wren
+👺 Primary interests: Vulkan, C, gamedev, game engines
 
-🍄 Ongoing Projects: [Vulkan2D](http://www.github.com/PaoloMazzon/Vulkan2D), [Astro](https://astroengine.ca/)
+🍄 Ongoing Projects: [Vulkan2D](http://www.github.com/PaoloMazzon/Vulkan2D), [Astro](https://astroengine.ca/), [Octarine](https://github.com/PaoloMazzon/Octarine)
 
 🤨 Completed Projects: [Bedlam](https://github.com/PaoloMazzon/Bedlam), [Spacelink](https://github.com/PaoloMazzon/Spacelink), [Peace & Liberty](https://github.com/PaoloMazzon/PeacenLiberty), [LECD](https://github.com/PaoloMazzon/Low-Earth-Cleanup-Detail)
 
