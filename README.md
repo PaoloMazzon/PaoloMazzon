@@ -1,5 +1,5 @@
 # Paolo Mazzon
-(libertea/caveguy/splunk/plo)
+(libertea/caveguy/splunk/plo) 
 
 👺 Primary interests: Vulkan, C, gamedev, game engines
 
@@ -14,4 +14,4 @@
 Check out my [2D renderer](http://www.github.com/PaoloMazzon/Vulkan2D) and [game engine](https://astroengine.ca/),
 I'm very proud of both of them.
 
-![Astro](https://user-images.githubusercontent.com/17896827/237554076-686ab0a6-b37d-4407-8e26-1b98d0bd00ab.gif)
+<img width="979" height="417" alt="thing" src="https://github.com/user-attachments/assets/5f99ac2d-f6d9-412e-b21b-cb8453fff8dd" />
