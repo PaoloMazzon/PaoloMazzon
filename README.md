@@ -7,7 +7,7 @@
 
 🤨 Completed Projects: [Disorderly Conduct](https://devplo.itch.io/disorderly-conduct), [Sea of Clouds](https://devplo.itch.io/sea-of-clouds), [Bedlam](https://github.com/PaoloMazzon/Bedlam), [Spacelink](https://github.com/PaoloMazzon/Spacelink), [Peace & Liberty](https://github.com/PaoloMazzon/PeacenLiberty), [LECD](https://github.com/PaoloMazzon/Low-Earth-Cleanup-Detail)
 
-🗿 Too busy to collaborate on new projects but if you have questions you can reach me at [pdmazzon@gmail.com](mailto:pdmazzon@gmail.com) or my Discord name `libertea`.
+🗿 Too busy to collaborate on new projects but feel free to reach out to me at [pdmazzon@gmail.com](mailto:pdmazzon@gmail.com) or my Discord `libertea`
 
 ---------
 
