@@ -11,6 +11,6 @@
 
 ---------
 
-Check out my [2D renderer](http://www.github.com/PaoloMazzon/Vulkan2D), I'm quite proud of it and I use it in all of my games.
+I work as a robotic software developer and do indie game dev and Vulkan renderers as a hobby. I am really proud of my [2D renderer](http://www.github.com/PaoloMazzon/Vulkan2D), so please check it out and feel free to contribute/fork it!
 
 <img width="979" height="417" alt="thing" src="https://github.com/user-attachments/assets/5f99ac2d-f6d9-412e-b21b-cb8453fff8dd" />
